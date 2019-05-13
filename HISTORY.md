@@ -15,3 +15,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-05-10**: Set up Android Studio, explored app UI  
   _Evidence:_ Google searches 'android studio', 'interface graphique application mobile'
+
+- **2019-05-13**: Planning: mobile app design inspiration  
+  _Evidence:_ Google searches 'design d'application mobile', 'app builder'
