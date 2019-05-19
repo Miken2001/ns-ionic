@@ -18,3 +18,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-05-13**: Planning: mobile app design inspiration  
   _Evidence:_ Google searches 'design d'application mobile', 'app builder'
+
+- **2019-05-19**: Planning: first Android app tutorials, templates  
+  _Evidence:_ Google search 'templates d'application mobile'; YouTube 'Créez votre première application mobile (Android)'
