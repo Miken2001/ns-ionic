@@ -24,3 +24,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-05-23**: Planning: mobile app layout code  
   _Evidence:_ Google search 'code XML for application mobile'
+
+- **2019-05-24**: Planning: app assets and interface templates  
+  _Evidence:_ Google searches 'assets d'application mobile', 'exemple d'interface d'application mobile'; YouTube Adobe XD prototype tutorial
