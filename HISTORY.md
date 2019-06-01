@@ -30,3 +30,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-05-31**: Planning: evaluated app builders vs coding  
   _Evidence:_ Google searches 'create a mobile app', 'create a app in appybuilder'
+
+- **2019-06-01**: Planning: app development guide  
+  _Evidence:_ Google search 'create a mobile app'
