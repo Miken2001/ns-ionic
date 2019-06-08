@@ -33,3 +33,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-06-01**: Planning: app development guide  
   _Evidence:_ Google search 'create a mobile app'
+
+- **2019-06-08**: Planning: mobile app design templates  
+  _Evidence:_ Google search 'templates design mobile app'
