@@ -39,3 +39,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-06-10**: Planning: building the app with HTML5  
   _Evidence:_ Google search 'create mobile app with html5'
+
+- **2019-06-26**: Research on the Nouveau Secondaire program the app is built for  
+  _Evidence:_ Google search 'le nouveau secondaire en haiti'
