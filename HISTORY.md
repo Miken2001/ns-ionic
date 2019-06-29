@@ -42,3 +42,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-06-26**: Research on the Nouveau Secondaire program the app is built for  
   _Evidence:_ Google search 'le nouveau secondaire en haiti'
+
+- **2019-06-29**: Chose Ionic to build the app  
+  _Evidence:_ Google searches 'creer une application avec ionic', 'exemple d'application ionic'; YouTube 'Ionic 4 example app'
