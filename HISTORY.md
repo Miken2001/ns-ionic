@@ -48,3 +48,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-11-08**: Splash screen work  
   _Evidence:_ Google search 'creer une splashscreen avec ionic'
+
+- **2019-11-13**: Side menu, page navigation and storage for the subject pages  
+  _Evidence:_ YouTube Ionic tutorials: ion-menu, navigation between pages, @ionic/storage
