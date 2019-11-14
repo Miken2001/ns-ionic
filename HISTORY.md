@@ -51,3 +51,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-11-13**: Side menu, page navigation and storage for the subject pages  
   _Evidence:_ YouTube Ionic tutorials: ion-menu, navigation between pages, @ionic/storage
+
+- **2019-11-14**: Page navigation work  
+  _Evidence:_ YouTube 'Formation Ionic : Comprendre les pages et la navigation'
