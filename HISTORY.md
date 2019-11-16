@@ -54,3 +54,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-11-14**: Page navigation work  
   _Evidence:_ YouTube 'Formation Ionic : Comprendre les pages et la navigation'
+
+- **2019-11-16**: Tabs menu, side menu, authentication page  
+  _Evidence:_ YouTube Ionic tutorials: tabs menu, side menu, authentication page
