@@ -1,0 +1,15 @@
+.welcome-card img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+my-custom-menu{
+  background-color: #002347;
+}
+
+.welcome-card{
+    text-align: center;
+    color: #002347;
+    font-size: larger; 
+
+  }
