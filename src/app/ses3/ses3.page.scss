@@ -1,0 +1,30 @@
+.welcome-card{
+    text-align: center;
+    color: #002347;
+    font-size: larger;
+} 
+  :root {
+    --ion-safe-area-top: 20px;
+    --ion-safe-area-bottom: 22px;
+  }
+  .swiper-slide {
+    display: block;
+  }
+  ion-slide > h1 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color:  #000000;
+    text-decoration: underline;
+  }
+  ion-slide > h2 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color:  #000000;
+    text-decoration: underline;
+  }
+  ion-slide > p {
+    color: #000000;
+    text-align: left;
+    font-size: 16px;
+    margin-bottom: 0px;
+  }
