@@ -1,0 +1,72 @@
+<ion-header>
+    <ion-toolbar color="secondary">
+      <ion-buttons slot="start">
+        <ion-back-button color="tertiary"></ion-back-button>
+      </ion-buttons>
+      <ion-title color="tertiary">Contactez-Nous</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+<ion-content>
+    <ion-card>
+      <ion-card-content>
+        <form onsubmit="processForm(event)">
+        <ion-list lines="full" class="ion-no-margin ion-no-padding">
+          <ion-item>
+            <ion-label position="stacked">Nom<ion-text color="danger">*</ion-text></ion-label>
+            <ion-input required type="text" oninput="handleFirstNameValue(event)"></ion-input>
+          </ion-item>
+
+          <ion-item>
+            <ion-label position="stacked">Prenom<ion-text color="danger">*</ion-text></ion-label>
+            <ion-input required type="text" oninput="handleLastNameValue(event)"></ion-input>
+          </ion-item>
+          
+          <ion-item>
+            <ion-label position="floating">Titre</ion-label>
+            <ion-input></ion-input>
+          </ion-item>
+          <ion-item>
+              <ion-label position="stacked">Message</ion-label>
+              <ion-textarea></ion-textarea>
+            </ion-item>
+          </ion-list>
+  
+          <div class="ion-padding">
+            <ion-button expand="block" type="submit" class="ion-no-margin">Envoyer</ion-button>
+          </div>
+      </form>
+  
+      <ion-item>
+      <ion-icon name="logo-facebook"></ion-icon>
+      <ion-icon name="logo-instagram"></ion-icon>
+      <ion-icon name="logo-skype"></ion-icon>
+      <ion-icon name="logo-tumblr"></ion-icon>
+      <ion-icon name="logo-twitter"></ion-icon>
+      <ion-icon name="logo-whatsapp"></ion-icon>
+      <ion-icon name="logo-youtube"></ion-icon>
+      </ion-item>
+      </ion-card-content>
+    </ion-card>
+</ion-content>
+
+<script>
+    const controller = document.querySelector('ion-alert-controller');
+    let firstName, lastName;
+    function processForm(event) {
+      event.preventDefault();
+      controller.create({
+        header: 'Account Created',
+        message: `Created account for: <b>${firstName} ${lastName}</b>`,
+        buttons: [{
+          text: 'OK'
+        }]
+      }).then(alert => alert.present());
+    }
+    function handleFirstNameValue(event) {
+      firstName = event.target.value;
+    }
+    function handleLastNameValue(event) {
+      lastName = event.target.value;
+    }
+  </script>
