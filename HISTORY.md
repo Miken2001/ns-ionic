@@ -60,3 +60,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-11-30**: Built the Android release APK, fixed build errors  
   _Evidence:_ Google search 'android studio release build'; YouTube 'Error in ionic cordova build android --prod', 'How to Fix Ionic APK Build Error'
+
+- **2019-12-01**: Firebase and forms/email login for the app  
+  _Evidence:_ Google search 'firebase'; YouTube 'Ionic Basics: Forms and Inputs', 'connexion par mail'
