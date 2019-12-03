@@ -63,3 +63,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-12-01**: Firebase and forms/email login for the app  
   _Evidence:_ Google search 'firebase'; YouTube 'Ionic Basics: Forms and Inputs', 'connexion par mail'
+
+- **2019-12-03**: Disabled/fixed the splash screen  
+  _Evidence:_ Google search 'comment desactive le splshscreen dans ionic'
