@@ -66,3 +66,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2019-12-03**: Disabled/fixed the splash screen  
   _Evidence:_ Google search 'comment desactive le splshscreen dans ionic'
+
+- **2019-12-11**: Prepared the app for Play Store / App Store submission  
+  _Evidence:_ YouTube 'Ionic 3+ • Préparer son application pour la soumission AppStore et Google Play Store'
